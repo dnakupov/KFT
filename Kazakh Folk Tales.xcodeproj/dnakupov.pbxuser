@@ -1,0 +1,272 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Kazakh Folk Tales */ = {
+		activeExec = 0;
+		executables = (
+			D3AB151712F97B3A00CD9507 /* Kazakh Folk Tales */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D3AB151712F97B3A00CD9507 /* Kazakh Folk Tales */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Kazakh Folk Tales */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Kazakh Folk Tales */,
+		);
+		codeSenseManager = D3AB153D12F97B3F00CD9507 /* Code sense */;
+		executables = (
+			D3AB151712F97B3A00CD9507 /* Kazakh Folk Tales */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					414,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					374,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319615381;
+			PBXWorkspaceStateSaveDate = 319615381;
+		};
+		perUserProjectItems = {
+			D32B9C541302EB0E00FCEAAF /* PBXTextBookmark */ = D32B9C541302EB0E00FCEAAF /* PBXTextBookmark */;
+			D32B9C551302EB0E00FCEAAF /* PlistBookmark */ = D32B9C551302EB0E00FCEAAF /* PlistBookmark */;
+			D32B9C571302EB0E00FCEAAF /* PlistBookmark */ = D32B9C571302EB0E00FCEAAF /* PlistBookmark */;
+			D3437F40130159D7006D25B0 /* PBXBookmark */ = D3437F40130159D7006D25B0 /* PBXBookmark */;
+			D3437F41130159D7006D25B0 /* PBXTextBookmark */ = D3437F41130159D7006D25B0 /* PBXTextBookmark */;
+			D3437F43130159D7006D25B0 /* PBXTextBookmark */ = D3437F43130159D7006D25B0 /* PBXTextBookmark */;
+			D3B6AE52130CF2D900636487 /* PlistBookmark */ = D3B6AE52130CF2D900636487 /* PlistBookmark */;
+			D3ED72EA1300084400F06BF2 /* PBXBookmark */ = D3ED72EA1300084400F06BF2 /* PBXBookmark */;
+			D3ED72EB1300084400F06BF2 /* PBXBookmark */ = D3ED72EB1300084400F06BF2 /* PBXBookmark */;
+			D3ED72EC1300084400F06BF2 /* PBXBookmark */ = D3ED72EC1300084400F06BF2 /* PBXBookmark */;
+			D3ED731913000D4600F06BF2 /* PBXBookmark */ = D3ED731913000D4600F06BF2 /* PBXBookmark */;
+			D3ED731A13000D4600F06BF2 /* PBXTextBookmark */ = D3ED731A13000D4600F06BF2 /* PBXTextBookmark */;
+			D3ED731C13000D4600F06BF2 /* PBXTextBookmark */ = D3ED731C13000D4600F06BF2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = D3AB153C12F97B3F00CD9507 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3053AC6E109B7857006FCFE7 /* VERSION */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 327}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 5}";
+		};
+	};
+	307D28A1123043350040C0FA /* PhoneGapBuildSettings.xcconfig */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 327}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 143}";
+		};
+	};
+	D32B9C541302EB0E00FCEAAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D3437FC31301763D006D25B0 /* styles.css */;
+		name = "styles.css: 60";
+		rLen = 0;
+		rLoc = 1046;
+		rType = 0;
+		vrLen = 514;
+		vrLoc = 1933;
+	};
+	D32B9C551302EB0E00FCEAAF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 30E1352610E2C1420031B30D /* PhoneGap.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/PhoneGap.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	D32B9C571302EB0E00FCEAAF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Kazakh_Folk_Tales___1_1-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFiles,
+		);
+		name = "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Kazakh_Folk_Tales___1_1-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	D3437F40130159D7006D25B0 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = D3437F0E13015697006D25B0 /* Default-Landscape.png */;
+	};
+	D3437F41130159D7006D25B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D3437F42130159D7006D25B0 /* er-tostik.html */;
+		name = "er-tostik.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1526;
+		vrLoc = 0;
+	};
+	D3437F42130159D7006D25B0 /* er-tostik.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = "er-tostik.html";
+		path = "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/www/er-tostik.html";
+		sourceTree = "<absolute>";
+	};
+	D3437F43130159D7006D25B0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D3437F44130159D7006D25B0 /* phonegap.js */;
+		name = "phonegap.js: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 22260;
+		vrLoc = 0;
+	};
+	D3437F44130159D7006D25B0 /* phonegap.js */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.javascript;
+		name = phonegap.js;
+		path = "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/www/phonegap.js";
+		sourceTree = "<absolute>";
+	};
+	D3437FC31301763D006D25B0 /* styles.css */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.css;
+		name = styles.css;
+		path = "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/www/styles.css";
+		sourceTree = "<absolute>";
+	};
+	D3AB151712F97B3A00CD9507 /* Kazakh Folk Tales */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Kazakh Folk Tales";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	D3AB153C12F97B3F00CD9507 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D3AB153D12F97B3F00CD9507 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D3B6AE52130CF2D900636487 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Kazakh_Folk_Tales___1_1-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFiles,
+		);
+		name = "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Kazakh_Folk_Tales___1_1-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	D3ED72EA1300084400F06BF2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 302CC88710CD8CCE00C49659 /* icon.png */;
+	};
+	D3ED72EB1300084400F06BF2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3009C2AB127B894C007F4BC6 /* icon@2x.png */;
+	};
+	D3ED72EC1300084400F06BF2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3009C2AA127B894C007F4BC6 /* icon-72.png */;
+	};
+	D3ED731913000D4600F06BF2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 302CC88610CD8CCE00C49659 /* Default.png */;
+	};
+	D3ED731A13000D4600F06BF2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307D28A1123043350040C0FA /* PhoneGapBuildSettings.xcconfig */;
+		name = "PhoneGapBuildSettings.xcconfig: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 143;
+		vrLoc = 0;
+	};
+	D3ED731C13000D4600F06BF2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3053AC6E109B7857006FCFE7 /* VERSION */;
+		name = "VERSION: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 5;
+		vrLoc = 0;
+	};
+}
