@@ -1,0 +1,602 @@
+TKazakh Folk Tales Free
+v7
+r0
+t318769009.860099
+cCheck dependencies
+cProcessInfoPlistFile "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Info.plist" Kazakh_Folk_Tales___1_1-Info.plist
+cPhaseScriptExecution "Copy PhoneGap Javascript" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Script-30E9A9A110B758320022D3BA.sh"
+cPhaseScriptExecution "Touch www folder" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Script-304B58A110DAC018002A0835.sh"
+cCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/www" www
+cCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/VERSION" /Users/dnakupov/Documents/PhoneGapLib/VERSION
+cCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Default.png" Default.png
+cCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/icon.png" icon.png
+cCopyPlistFile "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/PhoneGap.plist" PhoneGap.plist
+cCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/PhoneGapBuildSettings.xcconfig" PhoneGapBuildSettings.xcconfig
+cCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/icon-72.png" icon-72.png
+cCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/icon@2x.png" icon@2x.png
+cCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Default-Landscape.png" Default-Landscape.png
+cCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Default-Portrait.png" Default-Portrait.png
+cProcessPCH /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kazakh_Folk_Tales___1_1_Prefix-awxemivvxgpoiibmrbdirjgzuyur/Kazakh_Folk_Tales___1_1_Prefix.pch.gch Kazakh_Folk_Tales___1_1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects-normal/i386/main.o" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects-normal/i386/Kazakh_Folk_Tales___1_1AppDelegate.o" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Classes/Kazakh_Folk_Tales___1_1AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Kazakh Folk Tales Free" normal i386
+cGenerateDSYMFile "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app.dSYM" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Kazakh Folk Tales Free"
+cTouch "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC128840000000000000733
+t1287727236
+s1843
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004CC122E10000000000075FE0
+t1287725793
+s483296
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBook.framework/Headers/ABAddressBook.h
+c000000004CC122DB0000000000000A8C
+t1287725787
+s2700
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004CC129090000000000151F20
+t1287727369
+s1384224
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/AddressBookUI.h
+c000000004CC128F80000000000000202
+t1287727352
+s514
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004CC1222F0000000000010AAC
+t1287725615
+s68268
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC1224400000000001C3D40
+t1287725636
+s1850688
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004CC6569800000000001AAD60
+t1288066712
+s1748320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004CC6562D000000000009BEC0
+t1288066605
+s638656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004CC122D0000000000005BF20
+t1287725776
+s376608
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC121F60000000000068970
+t1287725558
+s428400
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationController.h
+c000000004CC1282000000000000019AC
+t1287727136
+s6572
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Classes/Kazakh_Folk_Tales___1_1AppDelegate.h
+c000000004D4943B90000000000000131
+t1296647097
+s305
+i<UIKit/UIKit.h>
+i"PhoneGapDelegate.h"
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Classes/Kazakh_Folk_Tales___1_1AppDelegate.m
+c000000004D4943B9000000000000082F
+t1296647097
+s2095
+i"Kazakh_Folk_Tales___1_1AppDelegate.h"
+i"PhoneGapViewController.h"
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Default-Landscape.png
+c000000004D4943B9000000000000154E
+t1296647097
+s5454
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Default-Portrait.png
+c000000004D4943B900000000000016C0
+t1296647097
+s5824
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Default.png
+c000000004D4949C3000000000001E2C9
+t1296648643
+s123593
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Kazakh_Folk_Tales___1_1_Prefix.pch
+c000000004D4943B900000000000000D7
+t1296647097
+s215
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/PhoneGap.plist
+c000000004D4943B90000000000000167
+t1296647097
+s359
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/PhoneGapBuildSettings.xcconfig
+c000000004D4943B9000000000000008F
+t1296647097
+s143
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app
+t1297076209
+s510
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app.dSYM
+t1297076209
+s102
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Default-Landscape.png
+t1297076206
+s5454
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Default-Portrait.png
+t1297076206
+s5824
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Default.png
+t1297076206
+s123593
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Info.plist
+t1297076205
+s987
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Kazakh Folk Tales Free
+t1297076209
+s293692
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/PhoneGap.plist
+t1297076206
+s145
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/PhoneGapBuildSettings.xcconfig
+t1297076206
+s143
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/PkgInfo
+t1297076205
+s8
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/VERSION
+t1297076206
+s5
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/icon-72.png
+t1297076206
+s9528
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/icon.png
+t1297076206
+s6913
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/icon@2x.png
+t1297076206
+s18493
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/www
+t1297076206
+s340
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects-normal/i386/Kazakh Folk Tales Free.LinkFileList
+c000000004D4FCFED000000000000017E
+t1297076205
+s382
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects-normal/i386/Kazakh_Folk_Tales___1_1AppDelegate.o
+t1297076208
+s49824
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects-normal/i386/main.o
+t1297076208
+s6552
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Script-304B58A110DAC018002A0835.sh
+c000000004D4FCFED0000000000000027
+t1297076205
+s39
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Script-30E9A9A110B758320022D3BA.sh
+c000000004D4FCFED00000000000000BE
+t1297076205
+s190
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/icon-72.png
+c000000004D494A890000000000002538
+t1296648841
+s9528
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/icon.png
+c000000004D494AA00000000000001B01
+t1296648864
+s6913
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/icon@2x.png
+c000000004D494A77000000000000483D
+t1296648823
+s18493
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/main.m
+c000000004D4943B90000000000000198
+t1296647097
+s408
+i<UIKit/UIKit.h>
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/www
+c000000004D4FCD370000000000000176
+t1297075511
+s374
+
+N/Users/dnakupov/Documents/PhoneGapLib/Classes/Contacts.h
+c000000004D1126800000000000000ACE
+t1292969600
+s2766
+i<Foundation/Foundation.h>
+i<AddressBook/ABAddressBook.h>
+i<AddressBookUI/AddressBookUI.h>
+i"PhoneGapCommand.h"
+
+N/Users/dnakupov/Documents/PhoneGapLib/Classes/DebugConsole.h
+c000000004D1126800000000000000170
+t1292969600
+s368
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"PhoneGapCommand.h"
+
+N/Users/dnakupov/Documents/PhoneGapLib/Classes/JSON/JSON.h
+c000000004D11268000000000000008F9
+t1292969600
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/dnakupov/Documents/PhoneGapLib/Classes/JSON/NSObject+SBJSON.h
+c000000004D1126800000000000000A01
+t1292969600
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/dnakupov/Documents/PhoneGapLib/Classes/JSON/NSString+SBJSON.h
+c000000004D1126800000000000000916
+t1292969600
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/dnakupov/Documents/PhoneGapLib/Classes/JSON/SBJSON.h
+c000000004D1126800000000000000AED
+t1292969600
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/dnakupov/Documents/PhoneGapLib/Classes/JSON/SBJsonBase.h
+c000000004D1126800000000000000B82
+t1292969600
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/dnakupov/Documents/PhoneGapLib/Classes/JSON/SBJsonParser.h
+c000000004D1126800000000000000C0B
+t1292969600
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/dnakupov/Documents/PhoneGapLib/Classes/JSON/SBJsonWriter.h
+c000000004D1126800000000000001140
+t1292969600
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/dnakupov/Documents/PhoneGapLib/Classes/Location.h
+c000000004D11268000000000000005D0
+t1292969600
+s1488
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i"PhoneGapCommand.h"
+
+N/Users/dnakupov/Documents/PhoneGapLib/Classes/PhoneGapCommand.h
+c000000004D11268000000000000002ED
+t1292969600
+s749
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dnakupov/Documents/PhoneGapLib/Classes/PhoneGapDelegate.h
+c000000004D1126800000000000000848
+t1292969600
+s2120
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<UIKit/UINavigationController.h>
+i"JSON/JSON.h"
+i"Location.h"
+i"Sound.h"
+i"Contacts.h"
+i"DebugConsole.h"
+
+N/Users/dnakupov/Documents/PhoneGapLib/Classes/PhoneGapViewController.h
+c000000004D11268000000000000002F6
+t1292969600
+s758
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/dnakupov/Documents/PhoneGapLib/Classes/Sound.h
+c000000004D1126800000000000000704
+t1292969600
+s1796
+i<Foundation/Foundation.h>
+i<AudioToolbox/AudioServices.h>
+i<AVFoundation/AVFoundation.h>
+i"PhoneGapCommand.h"
+
+N/Users/dnakupov/Documents/PhoneGapLib/VERSION
+c000000004D1126800000000000000005
+t1292969600
+s5
+
+N/Users/dnakupov/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGapLib.a
+c000000004D37CA560000000000122A50
+t1295501910
+s1190480
+
+N/var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kazakh_Folk_Tales___1_1_Prefix-awxemivvxgpoiibmrbdirjgzuyur/Kazakh_Folk_Tales___1_1_Prefix.pch.gch
+t1296647156
+s15477968
+
+NKazakh_Folk_Tales___1_1-Info.plist
+c000000004D4FCD5200000000000005BE
+t1297075538
+s1470
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318769005#318769005#0(0"0(0#1#0"8605633536#0"0#
+
+CCompileC "build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects-normal/i386/Kazakh_Folk_Tales___1_1AppDelegate.o" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Classes/Kazakh_Folk_Tales___1_1AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318769006.847149
+e318769008.456049
+r1
+xCompileC
+xbuild/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects-normal/i386/Kazakh_Folk_Tales___1_1AppDelegate.o
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Classes/Kazakh_Folk_Tales___1_1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Classes/Kazakh_Folk_Tales___1_1AppDelegate.m318769006#318769008#0(0"0(0#0#107"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Classes/Kazakh_Folk_Tales___1_1AppDelegate.m8596374784#2681"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Kazakh Folk Tales Free-generated-files.hmap" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Kazakh Folk Tales Free-own-target-headers.hmap" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Kazakh Folk Tales Free-all-target-headers.hmap" -iquote "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Kazakh Folk Tales Free-project-headers.hmap" "-F/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator" -iquote/Users/dnakupov/Documents/PhoneGapLib/Classes/JSON -iquote/Users/dnakupov/Documents/PhoneGapLib/Classes "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/include" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/DerivedSources/i386" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/DerivedSources" -include /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kazakh_Folk_Tales___1_1_Prefix-awxemivvxgpoiibmrbdirjgzuyur/Kazakh_Folk_Tales___1_1_Prefix.pch -c "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Classes/Kazakh_Folk_Tales___1_1AppDelegate.m" -o "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects-normal/i386/Kazakh_Folk_Tales___1_1AppDelegate.o"0#
+
+CCompileC "build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects-normal/i386/main.o" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318769006.845417
+e318769008.199843
+r1
+xCompileC
+xbuild/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects-normal/i386/main.o
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/main.m318769006#318769008#0(0"0(0#0#69"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/main.m8605012768#2613"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Kazakh Folk Tales Free-generated-files.hmap" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Kazakh Folk Tales Free-own-target-headers.hmap" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Kazakh Folk Tales Free-all-target-headers.hmap" -iquote "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Kazakh Folk Tales Free-project-headers.hmap" "-F/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator" -iquote/Users/dnakupov/Documents/PhoneGapLib/Classes/JSON -iquote/Users/dnakupov/Documents/PhoneGapLib/Classes "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/include" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/DerivedSources/i386" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/DerivedSources" -include /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kazakh_Folk_Tales___1_1_Prefix-awxemivvxgpoiibmrbdirjgzuyur/Kazakh_Folk_Tales___1_1_Prefix.pch -c "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/main.m" -o "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects-normal/i386/main.o"0#
+
+CCopyPlistFile "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/PhoneGap.plist" PhoneGap.plist
+s318769006.443734
+e318769006.845169
+r1
+xCopyPlistFile
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/PhoneGap.plist
+xPhoneGap.plist
+lSLF07#2@19"Copy PhoneGap.plist318769006#318769006#0(0"0(0#0#77"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/PhoneGap.plist8605029728#456"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 PhoneGap.plist --outdir "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Default-Landscape.png" Default-Landscape.png
+s318769006.547007
+e318769006.626955
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Default-Landscape.png
+xDefault-Landscape.png
+lSLF07#2@26"Copy Default-Landscape.png318769006#318769006#0(0"0(0#0#84"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Default-Landscape.png8606901888#572"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Default-Landscape.png" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Default-Portrait.png" Default-Portrait.png
+s318769006.547936
+e318769006.627206
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Default-Portrait.png
+xDefault-Portrait.png
+lSLF07#2@25"Copy Default-Portrait.png318769006#318769006#0(0"0(0#0#83"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Default-Portrait.png8606126144#571"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Default-Portrait.png" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Default.png" Default.png
+s318769006.439809
+e318769006.536033
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png318769006#318769006#0(0"0(0#0#74"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Default.png8605185440#562"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Default.png" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/PhoneGapBuildSettings.xcconfig" PhoneGapBuildSettings.xcconfig
+s318769006.543560
+e318769006.560346
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Folk Tales Free.app/PhoneGapBuildSettings.xcconfig
+xPhoneGapBuildSettings.xcconfig
+lSLF07#2@35"Copy PhoneGapBuildSettings.xcconfig318769006#318769006#0(0"0(0#0#93"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/PhoneGapBuildSettings.xcconfig8608617536#581"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/PhoneGapBuildSettings.xcconfig" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/VERSION" /Users/dnakupov/Documents/PhoneGapLib/VERSION
+s318769006.439011
+e318769006.459096
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Folk Tales Free.app/VERSION
+x/Users/dnakupov/Documents/PhoneGapLib/VERSION
+lSLF07#2@50"Copy /Users/dnakupov/Documents/PhoneGapLib/VERSION318769006#318769006#0(0"0(0#0#45"/Users/dnakupov/Documents/PhoneGapLib/VERSION8605298944#531"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dnakupov/Documents/PhoneGapLib/VERSION "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/icon-72.png" icon-72.png
+s318769006.545028
+e318769006.641493
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Folk Tales Free.app/icon-72.png
+xicon-72.png
+lSLF07#2@16"Copy icon-72.png318769006#318769006#0(0"0(0#0#74"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/icon-72.png8608240320#562"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/icon-72.png" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/icon.png" icon.png
+s318769006.441825
+e318769006.496588
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Folk Tales Free.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png318769006#318769006#0(0"0(0#0#71"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/icon.png8605135744#559"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/icon.png" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/icon@2x.png" icon@2x.png
+s318769006.546054
+e318769006.641127
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Folk Tales Free.app/icon@2x.png
+xicon@2x.png
+lSLF07#2@16"Copy icon@2x.png318769006#318769006#0(0"0(0#0#74"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/icon@2x.png8608060480#562"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/icon@2x.png" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/www" www
+s318769006.438202
+e318769006.512066
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Folk Tales Free.app/www
+xwww
+lSLF07#2@8"Copy www318769006#318769006#0(0"0(0#0#66"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/www8605397856#554"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/www" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app"0#
+
+CGenerateDSYMFile "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app.dSYM" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Kazakh Folk Tales Free"
+s318769009.679133
+e318769009.855315
+r1
+xGenerateDSYMFile
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app.dSYM
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Kazakh Folk Tales Free
+lSLF07#2@158"GenerateDSYMFile "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app.dSYM" "build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Kazakh Folk Tales Free"318769009#318769009#0(0"0(0#0#140"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Kazakh Folk Tales Free8606459744#506"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Kazakh Folk Tales Free" -o "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app.dSYM"0#
+
+CLd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Kazakh Folk Tales Free" normal i386
+s318769008.456165
+e318769009.679009
+r1
+xLd
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Kazakh Folk Tales Free
+xnormal
+xi386
+lSLF07#2@145"Link /Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Kazakh Folk Tales Free318769008#318769009#0(0"0(0#0#0"8607107744#1566"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator" "-L/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/../admob_iphone_sdk/AdMob" "-F/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator" -filelist "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects-normal/i386/Kazakh Folk Tales Free.LinkFileList" -mmacosx-version-min=10.6 -all_load -Obj-C -Xlinker -objc_abi_version -Xlinker 2 /Users/dnakupov/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGapLib.a -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -framework MessageUI -o "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Kazakh Folk Tales Free"0#
+
+CPhaseScriptExecution "Copy PhoneGap Javascript" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Script-30E9A9A110B758320022D3BA.sh"
+s318769005.232186
+e318769006.419758
+r1
+xPhaseScriptExecution
+xCopy PhoneGap Javascript
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Script-30E9A9A110B758320022D3BA.sh
+ojava -jar util/yuicompressor/yuicompressor-2.4.2.jar --nomunge --charset UTF-8 -o javascripts/phonegap.js javascripts/phonegap-uncompressed.js
+ocp /Users/dnakupov/Documents/PhoneGapLib/javascripts/phonegap.js /Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/www/phonegap.js
+lSLF07#2@50"Run custom shell script 'Copy PhoneGap Javascript'318769005#318769006#0(287"java -jar util/yuicompressor/yuicompressor-2.4.2.jar --nomunge --charset UTF-8 -o javascripts/phonegap.js javascripts/phonegap-uncompressed.jscp /Users/dnakupov/Documents/PhoneGapLib/javascripts/phonegap.js /Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/www/phonegap.js2(13@143"java -jar util/yuicompressor/yuicompressor-2.4.2.jar --nomunge --charset UTF-8 -o javascripts/phonegap.js javascripts/phonegap-uncompressed.js318769005#0#143#0(1@0"0(13@144"cp /Users/dnakupov/Documents/PhoneGapLib/javascripts/phonegap.js /Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/www/phonegap.js318769006#143#144#0(1@0"0(0#0#0"8596125920#19988"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER dnakupov    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build"    setenv BUILD_ROOT "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build"    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator"    setenv CACHE_ROOT /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/JavaClasses"    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app"    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator"    setenv CONFIGURATION_TEMP_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator"    setenv CONTENTS_FOLDER_PATH "Kazakh Folk Tales Free.app"    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/DerivedSources"    setenv DERIVED_FILE_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/DerivedSources"    setenv DERIVED_SOURCES_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/DerivedSources"    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH "Kazakh Folk Tales Free.app/English.lproj/Documentation"    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT "/tmp/Kazakh Folk Tales Free.dst"    setenv DWARF_DSYM_FILE_NAME "Kazakh Folk Tales Free.app.dSYM"    setenv DWARF_DSYM_FOLDER_PATH "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator"    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH "Kazakh Folk Tales Free.app/Executables"    setenv EXECUTABLE_FOLDER_PATH "Kazakh Folk Tales Free.app"    setenv EXECUTABLE_NAME "Kazakh Folk Tales Free"    setenv EXECUTABLE_PATH "Kazakh Folk Tales Free.app/Kazakh Folk Tales Free"    setenv FILE_LIST "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects/LinkFileList"    setenv FIXED_FILES_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/FixedFiles"    setenv FRAMEWORKS_FOLDER_PATH "Kazakh Folk Tales Free.app/Frameworks"    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME "Kazakh Folk Tales Free.app"    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER Kazakh_Folk_Tales___1_1_Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Kazakh_Folk_Tales___1_1-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH "Kazakh Folk Tales Free.app/Info.plist"    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH "Kazakh Folk Tales Free.app/English.lproj/InfoPlist.strings"    setenv INSTALL_DIR "/tmp/Kazakh Folk Tales Free.dst/Users/dnakupov/Applications"    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER dnakupov    setenv INSTALL_PATH /Users/dnakupov/Applications    setenv INSTALL_ROOT "/tmp/Kazakh Folk Tales Free.dst"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH "Kazakh Folk Tales Free.app/Java"    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Kazakh Folk Tales Free-LinkMap-normal-i386.txt"    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator\"  \"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/../admob_iphone_sdk/AdMob\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects-normal/i386/Kazakh Folk Tales Free.LinkFileList"    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH "Kazakh Folk Tales Free.app/English.lproj"    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects"    setenv OBJECT_FILE_DIR_normal "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects-normal"    setenv OBJROOT "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build"    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH "Kazakh Folk Tales Free.app/pbdevelopment.plist"    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/dnakupov/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/PkgInfo"    setenv PKGINFO_PATH "Kazakh Folk Tales Free.app/PkgInfo"    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8C134    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40200    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH "Kazakh Folk Tales Free.app/PlugIns"    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/PrefixHeaders"    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH "Kazakh Folk Tales Free.app/PrivateHeaders"    setenv PRODUCT_NAME "Kazakh Folk Tales Free"    setenv PRODUCT_SETTINGS_PATH "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Kazakh_Folk_Tales___1_1-Info.plist"    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT "Kazakh Folk Tales Free"    setenv PROJECT_DERIVED_FILE_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/DerivedSources"    setenv PROJECT_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv PROJECT_FILE_PATH "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Kazakh Folk Tales Free.xcodeproj"    setenv PROJECT_NAME "Kazakh Folk Tales Free"    setenv PROJECT_TEMP_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build"    setenv PUBLIC_HEADERS_FOLDER_PATH "Kazakh Folk Tales Free.app/Headers"    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/ResourceManagerResources"    setenv REZ_OBJECTS_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/ResourceManagerResources/Objects"    setenv REZ_SEARCH_PATHS "\"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH "Kazakh Folk Tales Free.app/Scripts"    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_NAME iphonesimulator4.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/DerivedSources"    setenv SHARED_FRAMEWORKS_FOLDER_PATH "Kazakh Folk Tales Free.app/SharedFrameworks"    setenv SHARED_PRECOMPS_DIR /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH "Kazakh Folk Tales Free.app/SharedSupport"    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv SRCROOT "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/SymbolRepositories"    setenv SYMROOT "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build"    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME "Kazakh Folk Tales Free"    setenv TARGET_BUILD_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator"    setenv TARGET_NAME "Kazakh Folk Tales Free"    setenv TARGET_TEMP_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build"    setenv TEMP_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build"    setenv TEMP_FILES_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build"    setenv TEMP_FILE_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build"    setenv TEMP_ROOT "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build"    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH "Kazakh Folk Tales Free.app"    setenv UNSTRIPPED_PRODUCT NO    setenv USER dnakupov    setenv USER_APPS_DIR /Users/dnakupov/Applications    setenv USER_HEADER_SEARCH_PATHS "/Users/dnakupov/Documents/PhoneGapLib/Classes/JSON /Users/dnakupov/Documents/PhoneGapLib/Classes"    setenv USER_LIBRARY_DIR /Users/dnakupov/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH "Kazakh Folk Tales Free.app/version.plist"    setenv VERSION_INFO_BUILDER dnakupov    setenv VERSION_INFO_FILE "Kazakh Folk Tales Free_vers.c"    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:Kazakh Folk Tales Free  PROJECT:Kazakh Folk Tales Free-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME "Kazakh Folk Tales Free.app"    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c "\"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Script-30E9A9A110B758320022D3BA.sh\""0#
+
+CPhaseScriptExecution "Touch www folder" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Script-304B58A110DAC018002A0835.sh"
+s318769006.419956
+e318769006.437592
+r1
+xPhaseScriptExecution
+xTouch www folder
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Script-304B58A110DAC018002A0835.sh
+lSLF07#2@42"Run custom shell script 'Touch www folder'318769006#318769006#0(0"0(0#0#0"8605537600#19988"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER dnakupov    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build"    setenv BUILD_ROOT "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build"    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator"    setenv CACHE_ROOT /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/JavaClasses"    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app"    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator"    setenv CONFIGURATION_TEMP_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator"    setenv CONTENTS_FOLDER_PATH "Kazakh Folk Tales Free.app"    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/DerivedSources"    setenv DERIVED_FILE_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/DerivedSources"    setenv DERIVED_SOURCES_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/DerivedSources"    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH "Kazakh Folk Tales Free.app/English.lproj/Documentation"    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT "/tmp/Kazakh Folk Tales Free.dst"    setenv DWARF_DSYM_FILE_NAME "Kazakh Folk Tales Free.app.dSYM"    setenv DWARF_DSYM_FOLDER_PATH "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator"    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH "Kazakh Folk Tales Free.app/Executables"    setenv EXECUTABLE_FOLDER_PATH "Kazakh Folk Tales Free.app"    setenv EXECUTABLE_NAME "Kazakh Folk Tales Free"    setenv EXECUTABLE_PATH "Kazakh Folk Tales Free.app/Kazakh Folk Tales Free"    setenv FILE_LIST "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects/LinkFileList"    setenv FIXED_FILES_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/FixedFiles"    setenv FRAMEWORKS_FOLDER_PATH "Kazakh Folk Tales Free.app/Frameworks"    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME "Kazakh Folk Tales Free.app"    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER Kazakh_Folk_Tales___1_1_Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Kazakh_Folk_Tales___1_1-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH "Kazakh Folk Tales Free.app/Info.plist"    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH "Kazakh Folk Tales Free.app/English.lproj/InfoPlist.strings"    setenv INSTALL_DIR "/tmp/Kazakh Folk Tales Free.dst/Users/dnakupov/Applications"    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER dnakupov    setenv INSTALL_PATH /Users/dnakupov/Applications    setenv INSTALL_ROOT "/tmp/Kazakh Folk Tales Free.dst"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH "Kazakh Folk Tales Free.app/Java"    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Kazakh Folk Tales Free-LinkMap-normal-i386.txt"    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator\"  \"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/../admob_iphone_sdk/AdMob\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects-normal/i386/Kazakh Folk Tales Free.LinkFileList"    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH "Kazakh Folk Tales Free.app/English.lproj"    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects"    setenv OBJECT_FILE_DIR_normal "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Objects-normal"    setenv OBJROOT "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build"    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH "Kazakh Folk Tales Free.app/pbdevelopment.plist"    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/dnakupov/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/PkgInfo"    setenv PKGINFO_PATH "Kazakh Folk Tales Free.app/PkgInfo"    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8C134    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40200    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH "Kazakh Folk Tales Free.app/PlugIns"    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/PrefixHeaders"    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH "Kazakh Folk Tales Free.app/PrivateHeaders"    setenv PRODUCT_NAME "Kazakh Folk Tales Free"    setenv PRODUCT_SETTINGS_PATH "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Kazakh_Folk_Tales___1_1-Info.plist"    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT "Kazakh Folk Tales Free"    setenv PROJECT_DERIVED_FILE_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/DerivedSources"    setenv PROJECT_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv PROJECT_FILE_PATH "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Kazakh Folk Tales Free.xcodeproj"    setenv PROJECT_NAME "Kazakh Folk Tales Free"    setenv PROJECT_TEMP_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build"    setenv PUBLIC_HEADERS_FOLDER_PATH "Kazakh Folk Tales Free.app/Headers"    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/ResourceManagerResources"    setenv REZ_OBJECTS_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/ResourceManagerResources/Objects"    setenv REZ_SEARCH_PATHS "\"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH "Kazakh Folk Tales Free.app/Scripts"    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_NAME iphonesimulator4.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/DerivedSources"    setenv SHARED_FRAMEWORKS_FOLDER_PATH "Kazakh Folk Tales Free.app/SharedFrameworks"    setenv SHARED_PRECOMPS_DIR /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH "Kazakh Folk Tales Free.app/SharedSupport"    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv SRCROOT "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/SymbolRepositories"    setenv SYMROOT "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build"    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME "Kazakh Folk Tales Free"    setenv TARGET_BUILD_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator"    setenv TARGET_NAME "Kazakh Folk Tales Free"    setenv TARGET_TEMP_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build"    setenv TEMP_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build"    setenv TEMP_FILES_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build"    setenv TEMP_FILE_DIR "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build"    setenv TEMP_ROOT "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build"    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH "Kazakh Folk Tales Free.app"    setenv UNSTRIPPED_PRODUCT NO    setenv USER dnakupov    setenv USER_APPS_DIR /Users/dnakupov/Applications    setenv USER_HEADER_SEARCH_PATHS "/Users/dnakupov/Documents/PhoneGapLib/Classes/JSON /Users/dnakupov/Documents/PhoneGapLib/Classes"    setenv USER_LIBRARY_DIR /Users/dnakupov/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH "Kazakh Folk Tales Free.app/version.plist"    setenv VERSION_INFO_BUILDER dnakupov    setenv VERSION_INFO_FILE "Kazakh Folk Tales Free_vers.c"    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:Kazakh Folk Tales Free  PROJECT:Kazakh Folk Tales Free-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME "Kazakh Folk Tales Free.app"    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c "\"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Kazakh Folk Tales Free.build/Debug-iphonesimulator/Kazakh Folk Tales Free.build/Script-304B58A110DAC018002A0835.sh\""0#
+
+CProcessInfoPlistFile "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Info.plist" Kazakh_Folk_Tales___1_1-Info.plist
+s318769005.227756
+e318769005.232042
+r1
+xProcessInfoPlistFile
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Info.plist
+xKazakh_Folk_Tales___1_1-Info.plist
+lSLF07#2@42"Process Kazakh_Folk_Tales___1_1-Info.plist318769005#318769005#0(0"0(0#0#97"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/Kazakh_Folk_Tales___1_1-Info.plist8605014848#603"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Kazakh_Folk_Tales___1_1-Info.plist -genpkginfo "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app/Info.plist"0#
+
+CProcessPCH /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kazakh_Folk_Tales___1_1_Prefix-awxemivvxgpoiibmrbdirjgzuyur/Kazakh_Folk_Tales___1_1_Prefix.pch.gch Kazakh_Folk_Tales___1_1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app"
+s318769009.855548
+e318769009.860043
+r1
+xTouch
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app
+lSLF07#2@123"Touch /Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app318769009#318769009#0(0"0(0#0#0"8608097408#345"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Folk Tales - 1.1/build/Debug-iphonesimulator/Kazakh Folk Tales Free.app"0#
+

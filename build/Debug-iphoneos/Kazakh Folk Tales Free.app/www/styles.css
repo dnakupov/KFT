@@ -1,0 +1,141 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image: url(images/bg.png);
+	color: #625b49;
+	font-family: "Times New Roman", Times, serif;
+	padding: 0px;
+	margin: 0px;
+	background-color: #ebdeb7;
+	background-repeat: repeat-x;
+}
+a:link {
+	text-decoration: none;
+	color: #403C30;
+}
+
+a:visited {
+	color: #403C30;
+}
+.container {
+	margin: 0px;
+	padding: 0px;
+	display: block;
+}
+.txtContainer {
+	background-image: url(images/left_side_ornament.png);
+	background-repeat: repeat-y;
+	background-position: 12px;
+}
+.txt {
+	display: block;
+	margin-top: 0px;
+	margin-right: 12px;
+	margin-bottom: 0px;
+	margin-left: 12px;
+	background-repeat: repeat-y;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 30px;	
+}
+.header {
+	background-image: url(images/topsep.png);
+	background-repeat: repeat-x;
+	background-position: left bottom;
+}
+h1 {
+	background-image: url(images/bg_top_h1.png);
+	background-repeat: no-repeat;
+	height: 118px;
+	width: 320px;
+	display: block;
+}
+h1 span {
+	display: none;
+}
+h2 {
+	margin: 0px;
+	padding: 0px;
+}
+ul {
+	margin: 0px;
+	list-style-type: none;
+	display: block;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	padding-left: 0px;
+}
+ul li a {
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+	display: block;
+	height: 57px;
+	width: 320px;
+}
+ul li a span {
+	display: none;
+}
+.button1 {
+	background-image: url(images/bg_button1.png);
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+	height: 56px;
+	width: 320px;
+}
+.button2 {
+	background-image: url(images/bg_button2.png);
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+	height: 56px;
+	width: 320px;
+}
+.button3 {
+	background-image: url(images/bg_button3.png);
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding: 0px;
+	height: 56px;
+	width: 320px;
+}
+.about {
+	text-align: left;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+}
+.bottom {
+	height: 49px;
+	font-size: 8pt;
+	text-align: left;
+	padding-left: 20px;
+}
+.headerTableTdRight {
+	width: 115px;
+}
+.backBTN {
+	background-image: url(images/back_arrow_small.png);
+	background-repeat: no-repeat;
+	display: block;
+	height: 21px;
+	padding-top: 4px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 30px;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: underline;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	text-align: left;
+	font-size: 10pt;
+}

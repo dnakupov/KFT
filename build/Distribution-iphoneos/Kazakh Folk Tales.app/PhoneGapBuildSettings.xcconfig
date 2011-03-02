@@ -1,0 +1,7 @@
+//
+//  PhoneGap.xcconfig
+//  Kazakh Folk Tales - 1.1
+//
+
+// Override this to use your project specific PHONEGAPLIB
+PHONEGAPLIB = $(PHONEGAPLIB)
